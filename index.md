@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Top 20 vim Commands and Tips
 
 You can use the [editor on GitHub](https://github.com/chrisbobek/vimTop20/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
