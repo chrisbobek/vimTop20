@@ -4,6 +4,6 @@
 `:q!` translates to force quit.
 If you don't know vim and you suddenly find yourself in vim, type `:q!` and press `enter`.
 This command closes the file without saving any changes.
-If instead you typed `:q!` and added it to the content of the file, hit the `ESC` key and
-type `:q!` again.
+(If you typed `:q!` and added it to the content of the file, hit the `ESC` key and
+type `:q!`, `enter` again.)
 
